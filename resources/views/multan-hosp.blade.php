@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name='copyright' content=''>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <!-- Title -->
     <title>Medicare Hospital</title>
 
@@ -318,34 +318,69 @@
     <!-- Heads of Departments Section -->
     <div class="container-fluid bg-light-gray my-4">
         <div class="container">
-            <h2 class="text-center mb-4" style="font-weight: bold; color: #333;">Heads of Departments</h2>
+            <h2 class="text-center mb-4" style="font-weight: bold; color: #333;"></h2>
 
             <!-- First Row -->
             <div class="row justify-content-center">
                 <div class="col-md-5 mb-4">
                     <div class="department-card text-center p-4 shadow-lg rounded"
                         style="background-color: #fff; transition: transform 0.3s;">
-                        <img src="img/author3.jpg" alt="Head of Cardiology"
+                        <img src="img/author1.jpg" alt="Head of Cardiology"
                             class="department-img img-fluid rounded-circle mb-3"
                             style="width: 120px; height: 120px; object-fit: cover; border: 3px solid #551123;">
                         <div>
-                            <h5 class="department-name" style="font-weight: bold; color: #55112e;">Dr. William Harris
+                            <h5 class="department-name" style="font-weight: bold; color: #55112e;">Dr. Thomas Harris
                             </h5>
-                            <p class="department-title" style="font-style: italic; color: #666;">Head of Cardiology
-                            </p>
+                            <p class="card-text">
+       
+       <a href="drthomas" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+     
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+       
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-5 mb-4">
                     <div class="department-card text-center p-4 shadow-lg rounded"
                         style="background-color: #fff; transition: transform 0.3s;">
-                        <img src="img/author2.jpg" alt="Head of Neurology"
+                        <img src="img/author3.jpg" alt="Head of Neurology"
                             class="department-img img-fluid rounded-circle mb-3"
                             style="width: 120px; height: 120px; object-fit: cover; border: 3px solid #551123;">
                         <div>
-                            <h5 class="department-name" style="font-weight: bold; color: #55112e;">Dr. Amelia Scott
+                            <h5 class="department-name" style="font-weight: bold; color: #55112e;">Dr. Emma Foster
                             </h5>
-                            <p class="department-title" style="font-style: italic; color: #666;">Head of Neurology</p>
+                            <p class="card-text">
+       
+       <a href="dremmaa" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+     
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+       
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -356,14 +391,31 @@
                 <div class="col-md-5 mb-4">
                     <div class="department-card text-center p-4 shadow-lg rounded"
                         style="background-color: #fff; transition: transform 0.3s;">
-                        <img src="img/author1.jpg" alt="Head of Orthopedics"
+                        <img src="img/author3.jpg" alt="Head of Orthopedics"
                             class="department-img img-fluid rounded-circle mb-3"
                             style="width: 120px; height: 120px; object-fit: cover; border: 3px solid #551123;">
                         <div>
-                            <h5 class="department-name" style="font-weight: bold; color: #55112e;">Dr. Michael Cooper
+                            <h5 class="department-name" style="font-weight: bold; color: #55112e;">Dr. Andrew Carter
                             </h5>
-                            <p class="department-title" style="font-style: italic; color: #666;">Head of Orthopedics
-                            </p>
+                            <p class="card-text">
+       
+       <a href="drandrewcarter" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+     
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+       
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -374,10 +426,27 @@
                             class="department-img img-fluid rounded-circle mb-3"
                             style="width: 120px; height: 120px; object-fit: cover; border: 3px solid #551123;">
                         <div>
-                            <h5 class="department-name" style="font-weight: bold; color: #55112e;">Dr. Sophia Williams
+                            <h5 class="department-name" style="font-weight: bold; color: #55112e;">Dr. Samuel Bennett
                             </h5>
-                            <p class="department-title" style="font-style: italic; color: #666;">Head of Pediatrics
-                            </p>
+                            <p class="card-text">
+       
+       <a href="drsamuel" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+     
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+       
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -388,13 +457,31 @@
                 <div class="col-md-5 mb-4">
                     <div class="department-card text-center p-4 shadow-lg rounded"
                         style="background-color: #fff; transition: transform 0.3s;">
-                        <img src="img/author2.jpg" alt="Head of Surgery"
+                        <img src="img/author1.jpg" alt="Head of Surgery"
                             class="department-img img-fluid rounded-circle mb-3"
                             style="width: 120px; height: 120px; object-fit: cover; border: 3px solid #551123;">
                         <div>
-                            <h5 class="department-name" style="font-weight: bold; color: #55112e;">Dr. James Anderson
+                            <h5 class="department-name" style="font-weight: bold; color: #55112e;">Dr. Jackson Hughes
                             </h5>
-                            <p class="department-title" style="font-style: italic; color: #666;">Head of Surgery</p>
+                            <p class="card-text">
+       
+       <a href="drjackson" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+     
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+       
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -405,10 +492,27 @@
                             class="department-img img-fluid rounded-circle mb-3"
                             style="width: 120px; height: 120px; object-fit: cover; border: 3px solid #551123;">
                         <div>
-                            <h5 class="department-name" style="font-weight: bold; color: #55112e;">Dr. Emily Brown
+                            <h5 class="department-name" style="font-weight: bold; color: #55112e;">Dr. Thomas Harris
                             </h5>
-                            <p class="department-title" style="font-style: italic; color: #666;">Head of Nephrology
-                            </p>
+                            <p class="card-text">
+       
+       <a href="drthomas" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+     
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+       
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>

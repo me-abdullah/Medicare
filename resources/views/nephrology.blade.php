@@ -15,6 +15,8 @@
 
     <!-- Favicon -->
     <link rel="icon" href="img/favicon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 
     <!-- Google Fonts -->
     <link
@@ -222,7 +224,25 @@
                     <img src="img/author3.jpg" alt="Nephrologist 1" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. William Green</h5>
-                        <p class="card-text">Head of Nephrology</p>
+                        <p class="card-text">
+      
+      <a href="drwilliamgreen" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -231,7 +251,25 @@
                     <img src="img/author3.jpg" alt="Nephrologist 2" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Olivia Parker</h5>
-                        <p class="card-text">Chronic Kidney Disease Specialist</p>
+                        <p class="card-text">
+      
+      <a href="droliviaparker" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -240,7 +278,23 @@
                     <img src="img/author3.jpg" alt="Nephrologist 3" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Andrew Carter</h5>
-                        <p class="card-text">Dialysis and Transplant Coordinator</p>
+                        <a href="drandrewcarter" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -252,7 +306,23 @@
                     <img src="img/author3.jpg" alt="Nephrologist 4" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Grace Lewis</h5>
-                        <p class="card-text">Pediatric Nephrologist</p>
+                        <a href="drgracelewis" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -261,7 +331,23 @@
                     <img src="img/author2.jpg" alt="Nephrologist 5" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Ethan Harris</h5>
-                        <p class="card-text">Hypertension Specialist</p>
+                        <a href="drethanharris" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -270,7 +356,23 @@
                     <img src="img/author1.jpg" alt="Nephrologist 6" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Sophia Bennett</h5>
-                        <p class="card-text">Acute Kidney Injury Specialist</p>
+                        <a href="drsophiabennett" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -282,7 +384,23 @@
                     <img src="img/author1.jpg" alt="Nephrologist 7" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Daniel Morris</h5>
-                        <p class="card-text">Renal Pathologist</p>
+                        <a href="drdanielmorris" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -291,7 +409,23 @@
                     <img src="img/author2.jpg" alt="Nephrologist 8" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Emily Walker</h5>
-                        <p class="card-text">Nephrology Research Director</p>
+                        <a href="dremilywalker" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -300,7 +434,23 @@
                     <img src="img/author3.jpg" alt="Nephrologist 9" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Samuel Hill</h5>
-                        <p class="card-text">Clinical Nephrologist</p>
+                        <a href="drsamuelhill" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -312,7 +462,23 @@
                     <img src="img/author3.jpg" alt="Nephrologist 10" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Laura Scott</h5>
-                        <p class="card-text">Renal Dietitian</p>
+                        <a href="drlaurascott" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -321,7 +487,23 @@
                     <img src="img/author2.jpg" alt="Nephrologist 11" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Benjamin Turner</h5>
-                        <p class="card-text">Kidney Transplant Specialist</p>
+                        <a href="drbenjaminturner" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -330,7 +512,23 @@
                     <img src="img/author1.jpg" alt="Nephrologist 12" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Rebecca Adams</h5>
-                        <p class="card-text">Quality and Safety Coordinator</p>
+                        <a href="drrebeccaadams" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>

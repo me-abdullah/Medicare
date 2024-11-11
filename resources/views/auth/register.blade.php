@@ -82,9 +82,9 @@
                     <label for="role">Role</label>
                     <select class="form-control" name="role" id="role" required>
                         <option value="" disabled selected>Select your Role</option>
-                        <option value="doctor" @if(old('role') == 'doctor') selected @endif>Doctor</option>
-                        <option value="management" @if(old('role') == 'management') selected @endif>Management</option>
-                        <option value="patient" @if(old('role') == 'patient') selected @endif>Patient</option>
+                        <option value="doctor">Doctor</option>
+                        <option value="patient">Patient</option>
+                        <option value="management">Management</option>
                     </select>
                 </div>
 

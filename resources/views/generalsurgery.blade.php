@@ -20,6 +20,7 @@
     <link
         href="https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap"
         rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -222,7 +223,23 @@
                     <img src="img/author3.jpg" alt="Surgeon 1" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Andrew Collins</h5>
-                        <p class="card-text">Chief Surgeon</p>
+                        <a href="drandrew" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -232,7 +249,24 @@
                     <img src="img/author3.jpg" alt="Surgeon 2" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Rebecca Turner</h5>
-                        <p class="card-text">Surgical Program Director</p>
+                        <a href="drrebecca" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
+                    
                     </div>
                 </div>
             </div>
@@ -242,7 +276,23 @@
                     <img src="img/author3.jpg" alt="Surgeon 3" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Olivia Brooks</h5>
-                        <p class="card-text">Head of Surgical Operations</p>
+                        <a href="drolivia" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -254,7 +304,23 @@
                     <img src="img/author3.jpg" alt="Surgeon 4" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Matthew Scott</h5>
-                        <p class="card-text">Trauma Surgeon</p>
+                        <a href="drmatthew" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -264,7 +330,23 @@
                     <img src="img/author2.jpg" alt="Surgeon 5" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Laura Mitchell</h5>
-                        <p class="card-text">Anesthesia Specialist</p>
+                        <a href="drlauramit" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -274,7 +356,23 @@
                     <img src="img/author1.jpg" alt="Surgeon 6" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Ethan Morgan</h5>
-                        <p class="card-text">Minimally Invasive Surgeon</p>
+                        <a href="drethan" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -286,7 +384,23 @@
                     <img src="img/author1.jpg" alt="Surgeon 7" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Grace Allen</h5>
-                        <p class="card-text">Surgical Nursing Coordinator</p>
+                        <a href="drgrace" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -296,7 +410,23 @@
                     <img src="img/author2.jpg" alt="Surgeon 8" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Nicholas Reed</h5>
-                        <p class="card-text">Postoperative Care Specialist</p>
+                        <a href="drnicholas" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -306,7 +436,23 @@
                     <img src="img/author3.jpg" alt="Surgeon 9" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Hannah Cooper</h5>
-                        <p class="card-text">Clinical Surgeon</p>
+                        <a href="drhannah" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -318,7 +464,23 @@
                     <img src="img/author3.jpg" alt="Surgeon 10" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. William Bennett</h5>
-                        <p class="card-text">General Surgery Consultant</p>
+                        <a href="drwilliam" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -328,7 +490,23 @@
                     <img src="img/author2.jpg" alt="Surgeon 11" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Sophia Harris</h5>
-                        <p class="card-text">Surgical Research Director</p>
+                        <a href="drsophia" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -338,7 +516,23 @@
                     <img src="img/author1.jpg" alt="Surgeon 12" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Jackson Hughes</h5>
-                        <p class="card-text">Compliance and Safety Officer</p>
+                        <a href="drjackson" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>

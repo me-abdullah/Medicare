@@ -44,6 +44,8 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/responsive.css">
+     
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 </head>
 
@@ -223,7 +225,30 @@
                             style="object-fit: cover;">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dr. Alice Carter</h5>
-                            <p class="card-text">Chief Cardiologist</p>
+
+                            <p class="card-text">
+      
+       <a href="dralice" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+      
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+      
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
+                            
+    
+               
+   
                         </div>
                     </div>
                 </div>
@@ -234,7 +259,25 @@
                             style="object-fit: cover;">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dr. Robert Johnson</h5>
-                            <p class="card-text">Cardiology Program Director</p>
+                            <p class="card-text">
+    
+       <a href="docrobert" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+      
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+     
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -245,7 +288,25 @@
                             style="object-fit: cover;">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dr. Emily Adams</h5>
-                            <p class="card-text">Director of Cardiac Care</p>
+                            <p class="card-text">
+       
+       <a href="dremly" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+  
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+      
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -258,7 +319,25 @@
                             style="object-fit: cover;">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dr. Michael Brown</h5>
-                            <p class="card-text">Interventional Cardiologist</p>
+                            <p class="card-text">
+       
+       <a href="drmichael" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+    
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -269,7 +348,25 @@
                             style="object-fit: cover;">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dr. Sarah Wilson</h5>
-                            <p class="card-text">Heart Failure Specialist</p>
+                            <p class="card-text">
+     
+       <a href="drsarah" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+       
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+      
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -280,7 +377,25 @@
                             style="object-fit: cover;">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dr. David Lee</h5>
-                            <p class="card-text">Electrophysiologist</p>
+                            <p class="card-text">
+      
+       <a href="drdavid" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+      
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+ 
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -293,7 +408,25 @@
                             style="object-fit: cover; ">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dr. Laura Green</h5>
-                            <p class="card-text">Cardiac Rehabilitation Coordinator</p>
+                            <p class="card-text">
+       
+       <a href="drlaura" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+    
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+      
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -304,7 +437,25 @@
                             style="object-fit: cover;">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dr. James White</h5>
-                            <p class="card-text">Cardiac Imaging Specialist</p>
+                            <p class="card-text">
+       
+       <a href="drjames" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+     
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+       
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -315,7 +466,25 @@
                             style="object-fit: cover;">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dr. Anna Black</h5>
-                            <p class="card-text">Clinical Cardiologist</p>
+                            <p class="card-text">
+       
+       <a href="dranna" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+     
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+       
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -328,7 +497,25 @@
                             style="object-fit: cover;">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dr. Mark Thompson</h5>
-                            <p class="card-text">Preventive Cardiologist</p>
+                            <p class="card-text">
+       
+       <a href="drmark" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+     
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+       
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -339,7 +526,25 @@
                             style="object-fit: cover;">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dr. Lisa Martin</h5>
-                            <p class="card-text">Cardiac Research Director</p>
+                            <p class="card-text">
+       
+       <a href="drlisa" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+     
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+       
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>
@@ -350,7 +555,25 @@
                             style="object-fit: cover;">
                         <div class="card-body text-center">
                             <h5 class="card-title">Dr. Thomas Harris</h5>
-                            <p class="card-text">Heart Health Educator</p>
+                            <p class="card-text">
+       
+       <a href="drthomas" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+     
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+       
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                         </div>
                     </div>
                 </div>

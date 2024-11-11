@@ -30,23 +30,18 @@ class AuthenticatedSessionController extends Controller
     
         // Check the user's role and redirect accordingly
         $user = Auth::user();
-        
-        // Use in_array to check if the role is valid
-        if (in_array($user->role, ['doctor', 'patient', 'management'])) {
-            // Redirect based on role
-            if ($user->role === 'doctor') {
-                return redirect()->intended(route('doctor.dashboard'));
-            } elseif ($user->role === 'patient') {
-                return redirect()->intended(route('patient.dashboard'));
-            } elseif ($user->role === 'management') {
-                return redirect()->intended(route('management.dashboard'));
-            }
+    
+        if ($user->role === 'doctor') {
+            return redirect()->intended(route('doctor.dashboard'));
+        } elseif ($user->role === 'patient') {
+            return redirect()->intended(route('patient.dashboard'));
+        } elseif ($user->role === 'management') {
+            return redirect()->intended(route('management.dashboard'));
         }
     
         // Default fallback if no role matches
         return redirect()->intended(route('dashboard'));
     }
-    
     
 
     /**

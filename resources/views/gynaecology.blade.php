@@ -21,6 +21,7 @@
         href="https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap"
         rel="stylesheet">
 
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- Nice Select CSS -->
@@ -44,6 +45,10 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/responsive.css">
+ 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 
 </head>
 
@@ -222,7 +227,25 @@
                     <img src="img/author3.jpg" alt="Gynecologist 1" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Anna Roberts</h5>
-                        <p class="card-text">Head of Obstetrics and Gynecology</p>
+                        <p class="card-text">
+      
+      <a href="drannaa" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -231,7 +254,25 @@
                     <img src="img/author3.jpg" alt="Gynecologist 2" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Laura King</h5>
-                        <p class="card-text">Reproductive Endocrinologist</p>
+                        <p class="card-text">
+      
+      <a href="drlauraa" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -240,7 +281,25 @@
                     <img src="img/author3.jpg" alt="Gynecologist 3" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Rachel Adams</h5>
-                        <p class="card-text">Maternal-Fetal Medicine Specialist</p>
+                        <p class="card-text">
+      
+       <a href="drrachell" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+      
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+      
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -252,7 +311,25 @@
                     <img src="img/author3.jpg" alt="Gynecologist 4" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Olivia Gray</h5>
-                        <p class="card-text">Pediatric and Adolescent Gynecologist</p>
+                        <p class="card-text">
+      
+      <a href="droliviaa" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -261,7 +338,25 @@
                     <img src="img/author2.jpg" alt="Gynecologist 5" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Sophia Evans</h5>
-                        <p class="card-text">Gynecologic Oncologist</p>
+                        <p class="card-text">
+      
+       <a href="drsophiia" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+      
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+      
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -270,7 +365,25 @@
                     <img src="img/author1.jpg" alt="Gynecologist 6" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Emma Foster</h5>
-                        <p class="card-text">Urogynecologist</p>
+                        <p class="card-text">
+      
+      <a href="dremmaa" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -282,7 +395,25 @@
                     <img src="img/author1.jpg" alt="Gynecologist 7" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Megan Turner</h5>
-                        <p class="card-text">Pelvic Pain Specialist</p>
+                        <p class="card-text">
+      
+       <a href="drmegann" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+      
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+      
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -291,7 +422,25 @@
                     <img src="img/author2.jpg" alt="Gynecologist 8" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Isabel Collins</h5>
-                        <p class="card-text">Minimally Invasive Surgery Specialist</p>
+                        <p class="card-text">
+      
+      <a href="drisabel" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -300,7 +449,25 @@
                     <img src="img/author3.jpg" alt="Gynecologist 9" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Grace Miller</h5>
-                        <p class="card-text">Clinical Research Director</p>
+                        <p class="card-text">
+      
+       <a href="drgracce" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+      
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+      
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -312,7 +479,25 @@
                     <img src="img/author3.jpg" alt="Gynecologist 10" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Julia White</h5>
-                        <p class="card-text">Gynecology and Women’s Health Specialist</p>
+                        <p class="card-text">
+      
+       <a href="drjulia" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+      
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+      
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -321,7 +506,25 @@
                     <img src="img/author2.jpg" alt="Gynecologist 11" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Samantha Baker</h5>
-                        <p class="card-text">Hormone Therapy Specialist</p>
+                        <p class="card-text">
+      
+      <a href="drsamanthaa" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -330,7 +533,25 @@
                     <img src="img/author1.jpg" alt="Gynecologist 12" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Natalie Scott</h5>
-                        <p class="card-text">Quality and Safety Officer</p>
+                        <p class="card-text">
+      
+      <a href="drnataliee" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>

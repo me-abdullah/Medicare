@@ -45,6 +45,8 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/responsive.css">
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 </head>
 
 <body>
@@ -224,7 +226,25 @@
                     <img src="img/author3.jpg" alt="Dermatologist 1" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Lisa Parker</h5>
-                        <p class="card-text">Chief Dermatologist</p>
+                        <p class="card-text">
+      
+      <a href="drleesa" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -233,8 +253,25 @@
                     <img src="img/author3.jpg" alt="Dermatologist 2" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Jason Reed</h5>
-                        <p class="card-text">Cosmetic Dermatology Specialist</p>
-                    </div>
+                        <p class="card-text">
+      
+      <a href="drjason" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>          </div>
                 </div>
             </div>
             <div class="col-md-4 mb-4">
@@ -242,7 +279,25 @@
                     <img src="img/author3.jpg" alt="Dermatologist 3" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Natalie Brooks</h5>
-                        <p class="card-text">Head of Clinical Dermatology</p>
+                        <p class="card-text">
+      
+      <a href="drnatalie" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -254,7 +309,25 @@
                     <img src="img/author3.jpg" alt="Dermatologist 4" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Ethan Carter</h5>
-                        <p class="card-text">Pediatric Dermatologist</p>
+                        <p class="card-text">
+      
+       <a href="drethann" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+      
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+      
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -263,7 +336,25 @@
                     <img src="img/author2.jpg" alt="Dermatologist 5" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Olivia Turner</h5>
-                        <p class="card-text">Laser Treatment Specialist</p>
+                        <p class="card-text">
+      
+      <a href="droliviaturner" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -272,7 +363,25 @@
                     <img src="img/author1.jpg" alt="Dermatologist 6" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Andrew Collins</h5>
-                        <p class="card-text">Mohs Surgery Expert</p>
+                        <p class="card-text">
+      
+      <a href="drandrewcol" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -284,7 +393,25 @@
                     <img src="img/author1.jpg" alt="Dermatologist 7" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Megan Hughes</h5>
-                        <p class="card-text">Dermatopathologist</p>
+                        <p class="card-text">
+      
+       <a href="drmegan" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+      
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+      
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -293,7 +420,25 @@
                     <img src="img/author2.jpg" alt="Dermatologist 8" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Daniel Foster</h5>
-                        <p class="card-text">Phototherapy Specialist</p>
+                        <p class="card-text">
+      
+      <a href="drdaniel" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -302,7 +447,25 @@
                     <img src="img/author3.jpg" alt="Dermatologist 9" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Emily Ross</h5>
-                        <p class="card-text">Clinical Research Director</p>
+                        <p class="card-text">
+      
+       <a href="dremilyy" class="text-decoration-none">
+           <i class="fas fa-user"></i> Profile 
+       </a>
+   </p>
+                            <p class="card-text">
+      
+       <a href="doc-schedule" class="text-decoration-none">
+           <i class="fas fa-calendar-alt"></i> Schecule
+       </a>
+   </p>
+   
+   <p class="card-text">
+      
+       <a href="apointmentform" class="text-decoration-none">
+           <i class="fas fa-calendar-check"></i> Appointment 
+       </a>
+   </p>
                     </div>
                 </div>
             </div>
@@ -314,7 +477,25 @@
                     <img src="img/author3.jpg" alt="Dermatologist 10" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Samuel Bennett</h5>
-                        <p class="card-text">Skin Cancer Specialist</p>
+                        <p class="card-text">
+      
+      <a href="drsamuel" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -323,7 +504,25 @@
                     <img src="img/author2.jpg" alt="Dermatologist 11" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Sophia Thompson</h5>
-                        <p class="card-text">Aesthetic Dermatologist</p>
+                        <p class="card-text">
+      
+      <a href="drsophiaa" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
@@ -332,7 +531,25 @@
                     <img src="img/author1.jpg" alt="Dermatologist 12" class="card-img-top" style="object-fit: cover;">
                     <div class="card-body text-center">
                         <h5 class="card-title">Dr. Ryan Davis</h5>
-                        <p class="card-text">Compliance and Safety Officer</p>
+                        <p class="card-text">
+      
+      <a href="drryan" class="text-decoration-none">
+          <i class="fas fa-user"></i> Profile 
+      </a>
+  </p>
+                           <p class="card-text">
+     
+      <a href="doc-schedule" class="text-decoration-none">
+          <i class="fas fa-calendar-alt"></i> Schecule
+      </a>
+  </p>
+  
+  <p class="card-text">
+     
+      <a href="apointmentform" class="text-decoration-none">
+          <i class="fas fa-calendar-check"></i> Appointment 
+      </a>
+  </p>
                     </div>
                 </div>
             </div>
